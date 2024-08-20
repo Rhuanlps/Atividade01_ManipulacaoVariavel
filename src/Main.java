@@ -24,5 +24,6 @@ public class Main {
         System.out.println("A soma da idade de " + nome + " e " + nome2 + " é " + somaIdade + ".");
         System.out.println("Se multiplicarmos sua altura ficaria, " + alturaMult + " metros, grande né?");
 
+
     }
 }
